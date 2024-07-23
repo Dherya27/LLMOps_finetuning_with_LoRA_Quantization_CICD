@@ -1,3 +1,3 @@
 # Overall Architecture
 
-<img src="/Users/dheeraj/Desktop/llmops-lora-quantization-cicd/img/overall_architecture.png">
+<img src="https://github.com/Dherya27/LLMOps_finetuning_with_LoRA_Quantization_CICD/blob/main/img/overall_architecture.png">
